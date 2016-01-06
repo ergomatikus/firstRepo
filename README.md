@@ -1,3 +1,3 @@
 # firstRepo
 My first repository for learning
-* add a new line
+* added a new line
